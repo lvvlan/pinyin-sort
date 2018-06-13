@@ -3,6 +3,14 @@
   "version": "0.0.1",
   "description": "拼音排序",
   "main": "index.js",
+  "bugs": {
+    "url": "https://github.com/lvvlan/pinyin-sort/issues"
+  },
+  "homepage": "https://github.com/lvvlan/pinyin-sort#readme",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lvvlan/pinyin-sort.git"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
