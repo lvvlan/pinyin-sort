@@ -2,7 +2,7 @@
 
 以汉字拼音首字母排序
 
-[![npm](https://img.shields.io/badge/npm-0.0.1-orange.svg)](https://www.npmjs.com/package/pinyin-sort)
+[![npm](https://img.shields.io/badge/npm-0.0.3-orange.svg)](https://www.npmjs.com/package/pinyin-sort)
 
 ## 安装
 
