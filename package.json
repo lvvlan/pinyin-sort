@@ -1,6 +1,6 @@
 {
   "name": "pinyin-sort",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "拼音排序",
   "main": "index.js",
   "bugs": {
