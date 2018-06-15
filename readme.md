@@ -2,7 +2,7 @@
 
 以汉字拼音首字母排序
 
-[![npm](https://img.shields.io/badge/npm-0.1.0-orange.svg)](https://www.npmjs.com/package/pinyin-sort)
+[![npm](https://img.shields.io/badge/npm-0.1.1-orange.svg)](https://www.npmjs.com/package/pinyin-sort)
 
 ## 安装
 
@@ -13,7 +13,7 @@ npm install pinyin-sort
 ## 用法
 
 ```js
-import PSY from 'pinyin-sort'
+import PYS from 'pinyin-sort'
 console.log(PYS(['1我', '不b', 'Z', '知道', '玩', '1']))
 //   [ { pinyin: 'b', value: [ '不b' ] },
 //     { pinyin: 'w', value: [ '玩' ] },
